@@ -1,6 +1,7 @@
 # Rocket.Chat-Install
 Guía de instalación para servidor standalone de Rocket.Chat
 
+Pasos listado en este [link](https://github.com/VitorshGF/Rocket.Chat-Install/blob/master/Instalar%20RocketChat.md)
 
 ## Changelog 
 
